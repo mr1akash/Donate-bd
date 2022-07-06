@@ -23,6 +23,7 @@ header{
 }
 .header-p{
     font-weight: 600;
+    padding-bottom: 2%;
 }
 .header-btn{
     text-decoration: none;
